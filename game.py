@@ -13,7 +13,7 @@ pg.init()
 
 screen = pg.display.set_mode((8*32,7*32))
 pg.display.set_caption("Pac-Man (clone)")
-
+# New comment
 font_press_enter = pg.font.Font(None, 32)
 
 ## Game loop ##
